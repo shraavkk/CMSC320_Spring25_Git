@@ -1,3 +1,4 @@
+
 Q1: Why might we consider using Git?
 
 Answer: Git is useful in allowing all teammates to contribute towards a 
@@ -5,3 +6,11 @@ project, while having safety features to ensure that nothing gets
 overwritten without approval and feedback from other teammates. This is 
 crucial towards preventing further complications as the project complexity 
 builds.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be useful towards financial services industry. 
+Having data science to analyze stock performance can be beneficial in 
+ensuring profits and making wise judgements when deciding to purchase 
+shares.
+
