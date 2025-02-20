@@ -14,3 +14,9 @@ Having data science to analyze stock performance can be beneficial in
 ensuring profits and making wise judgements when deciding to purchase 
 shares.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is combining the changes from one branch to another. It preserves the commit history between both branches. Rebasing is adding a branch to the tail of the other branch and then rewriting the commit history to make it seem 
+sequential.
+
